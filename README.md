@@ -56,12 +56,13 @@ The dataset includes:
 
 ---
 
-## 👩‍💻 Created By
+## 👩‍💻 Author
 
 **Riya Parmar**
 
+GitHub:  
+https://github.com/riyaa-parmar
+
 ---
 
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub!
+⭐ If you find these projects useful, consider **starring the repository**!
